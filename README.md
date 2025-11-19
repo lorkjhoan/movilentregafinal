@@ -1,5 +1,5 @@
 # INTEGRANTES
-ID:407350 Jhoan ESteban Rodriguez // ID:407445 Gabriela Robles Bautista
+ID:407350 Jhoan Esteban Rodriguez // ID:407445 Gabriela Robles Bautista
 
 # EXPLICACION DE LA APLICACION
 Esta aplicación móvil permite gestionar tareas de manera sencilla utilizando **Kotlin** y **Jetpack Compose**.  
