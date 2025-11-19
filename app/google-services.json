@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687085499988",
+    "project_id": "milistaapp-fed01",
+    "storage_bucket": "milistaapp-fed01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687085499988:android:c80b475d85225e1eeb5fc1",
+        "android_client_info": {
+          "package_name": "com.example.milistaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHhpzLR_TaE6sAfAPxHeqoRhAPerSpgiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
