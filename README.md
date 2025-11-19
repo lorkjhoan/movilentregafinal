@@ -14,6 +14,17 @@ El usuario puede:
 La aplicación utiliza un ViewModel para el manejo del estado y sigue una arquitectura organizada que facilita la escalabilidad y mantenibilidad del proyecto.
 
 #   COMO EJECUTAR LA APLICACION
-### Clonar el repositorio
+### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/TU-USUARIO/TU-REPO.git
+git clone https://github.com/lorkjhoan/movilentregafinal.git
+````
+### 2. Abrir el proyecto en android studio 
+* Abrir **android studio**
+* Ir a **File** > **open**
+* Seleccionar carpeta donde clono el repositorio
+### 3. Esperar la sincronizacion de gradle
+El IDE descagara las dependencias necesarias automaticamente
+### 4. Ejecutar la aplicacion
+* Conectar un dispositivo android o ejecutarlo desde un emulador de android studio
+* Presionar **Run** en android studio (recomendable desde MainActivity)
+* La aplicacion iniciara en el dispositivo seleccionado
