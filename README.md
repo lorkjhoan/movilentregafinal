@@ -28,3 +28,5 @@ El IDE descagara las dependencias necesarias automaticamente
 * Conectar un dispositivo android o ejecutarlo desde un emulador de android studio
 * Presionar **Run** en android studio (recomendable desde MainActivity)
 * La aplicacion iniciara en el dispositivo seleccionado
+# VIDEO EXPLICATIVO Y EJECUCION DE LA APP
+
