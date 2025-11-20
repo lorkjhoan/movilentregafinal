@@ -29,6 +29,7 @@ El IDE descagara las dependencias necesarias automaticamente
 * Presionar **Run** en android studio (recomendable desde MainActivity)
 * La aplicacion iniciara en el dispositivo seleccionado
 # VIDEO EXPLICATIVO Y EJECUCION DE LA APP
+https://drive.google.com/file/d/1ceecqEc51O1z7gXXNwShhm3lyNHZuyXt/view?usp=sharing
 
 # APK DE LA APLICACION
 https://drive.google.com/file/d/1543LfmsOfm1RWPiNEI2I0_W9jcjpN8KO/view?usp=sharing
