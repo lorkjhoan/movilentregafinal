@@ -30,3 +30,6 @@ El IDE descagara las dependencias necesarias automaticamente
 * La aplicacion iniciara en el dispositivo seleccionado
 # VIDEO EXPLICATIVO Y EJECUCION DE LA APP
 
+# APK DE LA APLICACION
+https://drive.google.com/file/d/1543LfmsOfm1RWPiNEI2I0_W9jcjpN8KO/view?usp=sharing
+
